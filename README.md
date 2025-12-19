@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66FF00&height=120&section=header" alt="header"/>
 
 # Hello! I'm Will! Welcome to my GitHub!
 
@@ -18,4 +18,4 @@
 > [!IMPORTANT]  
 > <a href="https://docs.google.com/document/d/1R9GnzeVNZ-28Fz6X1MJXHL6IynCzZuuq6YZZtsotcNA/export?format=pdf" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66FF00&height=120&section=footer" alt="footer"/>
