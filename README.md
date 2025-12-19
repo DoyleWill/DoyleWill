@@ -2,6 +2,10 @@
 
 # Hello! I'm Will! Welcome to my GitHub!
 
+<!--
+    Terminal GIF Link: https://www.terminalgif.com
+-->
+
 <div>
     <img src="assets\terminal.gif" alt="About Me Terminal GIF"/>
 </div>
