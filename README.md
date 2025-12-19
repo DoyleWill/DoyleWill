@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
 
-## Hello! I'm Will
+# Hello! I'm Will!
+
+## Welcome To My GitHub!
 
 <div>
     <img src="assets\terminal.gif" alt="About Me Terminal GIF"/>
