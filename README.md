@@ -2,7 +2,7 @@
 
 # Hello! I'm Will!
 
-## Welcome To My GitHub!
+*Welcome To My GitHub!*
 
 <div>
     <img src="assets\terminal.gif" alt="About Me Terminal GIF"/>
